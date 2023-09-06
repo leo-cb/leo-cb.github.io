@@ -92,13 +92,13 @@ const config = {
       description:
         'Flask application that predicts heart disease (and explains the prediction) from a set of relevant patient information, \
         derived from a GBT ML Model. Deployed from "HeartDiseasePrediction_WebApp" repo available in my Git. Technology stack:\
-        PySpark\
-        MLFlow\
-        AutoML\
-        Shap for model explainability\
-        Flask for rest API and website\
-        Docker\
-        CI/CD with Github actions\
+        PySpark,\
+        MLFlow,\
+        AutoML,\
+        Shap for model explainability,\
+        Flask for rest API and website,\
+        Docker,\
+        CI/CD with Github actions,\
         NoSQL (MongoDB)',
       imageUrl: 'https://i.ibb.co/f2W9Yz7/homepage.png',
       link: 'http://149.56.100.90:5000',
