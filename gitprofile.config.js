@@ -44,6 +44,7 @@ const config = {
     'MLFlow',
     'AutoML',
     'Docker',
+    'Linux'
   ],
   experiences: [
     {
