@@ -35,6 +35,7 @@ const config = {
   skills: [
     'Python',
     'SQL',
+    'R',
     'Data Science',
     'Machine Learning',
     'Cloud technologies',
