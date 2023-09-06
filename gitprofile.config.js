@@ -4,9 +4,9 @@ const config = {
   github: {
     username: 'leo-cb', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 10, // How many projects to display.
+    limit: 6, // How many projects to display.
     exclude: {
-      forks: false, // Forked projects will not be displayed if set to true.
+      forks: true, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
@@ -49,7 +49,7 @@ const config = {
     {
       company: 'Santander Group',
       position: 'Data Scientist',
-      from: 'March 2023',
+      from: 'March 2022',
       to: 'June 2023',
       companyLink: '',
     },
