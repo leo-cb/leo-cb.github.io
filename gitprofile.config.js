@@ -91,7 +91,7 @@ const config = {
       description:
         'Flask application that predicts heart disease (and explains the prediction) from a set of relevant patient information, derived from a GBT ML Model.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'http://149.93.100.90:5000',
+      link: 'http://149.56.100.90:5000',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
