@@ -75,13 +75,13 @@ const config = {
   education: [
     {
       institution: 'Faculdade de Ciências da Universidade de Lisboa',
-      degree: 'Statistics and Operations Research',
+      degree: 'Statistics and Operations Research Msc.',
       from: '2017',
       to: '2020',
     },
     {
       institution: 'Faculdade de Ciências da Universidade de Lisboa',
-      degree: 'Physics',
+      degree: 'Physics Bsc.',
       from: '2010',
       to: '2014',
     },
