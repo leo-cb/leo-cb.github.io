@@ -40,6 +40,7 @@ const config = {
     'Cloud technologies',
     'MLOps',
     'Azure Databricks',
+    'CI/CD',
     'Git',
     'MLFlow',
     'AutoML',
