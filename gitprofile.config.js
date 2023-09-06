@@ -47,18 +47,18 @@ const config = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Santander Group',
+      position: 'Data Scientist',
+      from: 'March 2023',
+      to: 'June 2023',
+      companyLink: '',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Millennium BCP',
+      position: 'Data Scientist',
+      from: 'February 2019',
+      to: 'February 2022',
+      companyLink: '',
     },
   ],
   /* certifications: [
@@ -71,15 +71,15 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Faculdade de Ciências da Universidade de Lisboa',
+      degree: 'Statistics and Operations Research',
+      from: '2017',
+      to: '2020',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
+      institution: 'Faculdade de Ciências da Universidade de Lisboa',
+      degree: 'Physics',
+      from: '2010',
       to: '2014',
     },
   ],
@@ -116,7 +116,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'wireframe',
+    defaultTheme: 'Light',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
