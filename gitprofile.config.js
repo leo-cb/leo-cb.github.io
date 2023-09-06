@@ -89,7 +89,8 @@ const config = {
     {
       title: 'Heart Disease Prediction Web app',
       description:
-        'Flask application that predicts heart disease (and explains the prediction) from a set of relevant patient information, derived from a GBT ML Model.',
+        'Flask application that predicts heart disease (and explains the prediction) from a set of relevant patient information, \
+        derived from a GBT ML Model. Deployed from this <a href="https://github.com/leo-cb/HeartDiseasePrediction_WebApp">repo</a>.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'http://149.56.100.90:5000',
     },
