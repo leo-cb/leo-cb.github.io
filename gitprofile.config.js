@@ -122,7 +122,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'Corporate',
+    defaultTheme: 'Cupcake',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
