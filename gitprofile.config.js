@@ -93,7 +93,7 @@ const config = {
       title: 'Heart Disease Prediction Website',
       description:
         'Flask application that predicts heart disease (and explains the prediction) from a set of relevant patient information, \
-        derived from a GBT ML Model. Deployed from "HeartDiseasePrediction_WebApp" repo available in my Git. Technology stack:\
+        derived from a GBT ML Model. Deployed from "HeartDiseasePrediction_WebApp" repo available in my Git. \n\nTechnology stack:\
         Azure Databricks,\
         PySpark,\
         MLFlow,\
