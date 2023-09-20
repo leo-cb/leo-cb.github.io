@@ -41,6 +41,7 @@ const config = {
     'NLP',
     'Cloud technologies',
     'MLOps',
+    'PyTorch',
     'Azure Databricks',
     'CI/CD',
     'Git',
