@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'leo-cb', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 4, // How many projects to display.
+    limit: 5, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
       projects: ['VulnerabilityDetection','leo-cb.github.io','leetcode_patterns','Simple-DevOps-Project','calculator_ci'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
