@@ -38,6 +38,7 @@ const config = {
     'R',
     'Data Science',
     'Machine Learning',
+    'NLP',
     'Cloud technologies',
     'MLOps',
     'Azure Databricks',
