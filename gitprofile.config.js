@@ -114,7 +114,7 @@ const config = {
       description:
         'Used data profiler, created a data pipeline, created a model to predict supermarket sales with AutoML and finally and created an endpoint. \n\nTechnology stack:\
         Azure ML Studio',
-      imageUrl: 'http://149.56.100.90/images/data_pipeline.png',
+      imageUrl: 'https://i.imgur.com/bu9eCKT.png',
       link: 'http://149.56.100.90/azure_mlstudio.html',
     },
   ],
