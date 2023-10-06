@@ -104,7 +104,7 @@ const config = {
         Flask (rest API and website),\
         Docker,\
         CI/CD with Github actions,\
-        NoSQL (MongoDB)\
+        NoSQL (MongoDB),\
         Unit testing (pytest)',
       imageUrl: 'https://i.ibb.co/f2W9Yz7/homepage.png',
       link: 'http://149.56.100.90:5000',
@@ -112,7 +112,7 @@ const config = {
     {
       title: 'Supermarket sales prediction with Azure ML Studio',
       description:
-        'Created a model to predict supermarket sales and created an endpoint. \n\nTechnology stack:\
+        'Used data profiler, created a data pipeline, created a model to predict supermarket sales with AutoML and finally and created an endpoint. \n\nTechnology stack:\
         Azure ML Studio',
       imageUrl: 'http://149.56.100.90/images/data_pipeline.png',
       link: 'http://149.56.100.90/azure_mlstudio.html',
