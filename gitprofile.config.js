@@ -4,7 +4,7 @@ const config = {
   github: {
     username: 'leo-cb', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 5, // How many projects to display.
+    limit: 6, // How many projects to display.
     exclude: {
       forks: true, // Forked projects will not be displayed if set to true.
       projects: ['VulnerabilityDetection','leo-cb.github.io','leetcode_patterns','Simple-DevOps-Project','calculator_ci'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
@@ -108,6 +108,14 @@ const config = {
         Unit testing (pytest)',
       imageUrl: 'https://i.ibb.co/f2W9Yz7/homepage.png',
       link: 'http://149.56.100.90:5000',
+    },
+    {
+      title: 'Smartphone Reviews Identification & Sentiment analysis',
+      description:
+        'Web application that identifies if the written text is a smartphone review and shows its associated sentiment.\
+        Tech stack: NLP (BERT, nltk, pyTorch, transformers), Docker, streamlit\',
+      imageUrl: 'https://i.imgur.com/w6aYvKn.png',
+      link: 'http://149.56.100.90:8501',
     },
     {
       title: 'Supermarket sales prediction with Azure ML Studio',
