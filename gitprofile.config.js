@@ -113,7 +113,7 @@ const config = {
       title: 'Smartphone Reviews Identification & Sentiment analysis',
       description:
         'Web application that identifies if the written text is a smartphone review and shows its associated sentiment.\
-        Tech stack: NLP (BERT, nltk, pyTorch, transformers), Docker, streamlit\',
+        Tech stack: NLP (BERT, nltk, pyTorch, transformers), Docker, streamlit',
       imageUrl: 'https://i.imgur.com/w6aYvKn.png',
       link: 'http://149.56.100.90:8501',
     },
