@@ -95,7 +95,7 @@ const config = {
       title: 'Heart Disease Prediction Website',
       description:
         'Flask application that predicts heart disease (and explains the prediction) from a set of relevant patient information, \
-        derived from a GBT ML Model. Deployed from "HeartDiseasePrediction_WebApp" repo available in my Git. \n\nTechnology stack:\
+        derived from a GBT ML Model. Deployed from "HeartDiseasePrediction_WebApp" repo available in my Git. \n\nTech stack:\
         Azure Databricks,\
         PySpark,\
         MLFlow,\
@@ -108,6 +108,14 @@ const config = {
         Unit testing (pytest)',
       imageUrl: 'https://i.ibb.co/f2W9Yz7/homepage.png',
       link: 'http://149.56.100.90:5000',
+    },
+    {
+      title: 'Wikipedia Article Summarizer',
+      description:
+        'Summarizes Wikipedia articles with transformers T5 model. Productization with Python program, fastAPI REST API and streamlit web app.\
+        Tech stack: NLP (transformers), fastAPI, Docker, streamlit',
+      imageUrl: 'https://github.com/leo-cb/wikipedia-article-summarization/blob/main/images/webapp.png',
+      link: 'http://149.56.100.90:8502',
     },
     {
       title: 'Smartphone Reviews Identification & Sentiment analysis',
