@@ -114,7 +114,7 @@ const config = {
       description:
         'Summarizes Wikipedia articles with transformers T5 model. Productization with Python program, fastAPI REST API and streamlit web app.\
         Tech stack: NLP (transformers), fastAPI, Docker, streamlit',
-      imageUrl: 'https://github.com/leo-cb/wikipedia-article-summarization/blob/main/images/webapp.png',
+      imageUrl: 'https://raw.githubusercontent.com/leo-cb/wikipedia-article-summarization/main/images/webapp.png',
       link: 'http://149.56.100.90:8502',
     },
     {
