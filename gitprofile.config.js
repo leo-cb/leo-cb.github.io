@@ -34,17 +34,15 @@ const config = {
   },
   skills: [
     'Python',
+    'MLOps',
+    'AWS',
     'SQL',
-    'R',
+    'GenAI',
+    'RAG',
     'Data Science',
     'Machine Learning',
     'NLP',
-    'Cloud technologies',
-    'MLOps',
-    'GenAI',
-    'RAG',
     'PyTorch',
-    'Azure Databricks',
     'CI/CD',
     'Git',
     'MLFlow',
@@ -99,6 +97,22 @@ const config = {
 
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
+    {
+      title: 'Ask My GitHub',
+      description:
+        'RAG chatbot specialized for GitHub and code: asks questions about any GitHub account (e.g., "which technologies and projects did this developer work on?"). Scrapes the public repositories of the given user with the GitHub API, builds a FAISS index and answers through a fast one-shot RAG path or an agentic Corrective RAG path built on LangGraph. Includes a streamlit dashboard that renders portfolio metrics (repo summaries, languages and libraries) per GitHub user. \n\nTech stack:\
+        GenAI (Agentic RAG, LangGraph, Corrective RAG),\
+        LLMs (OpenAI, Anthropic, DeepSeek, Ollama),\
+        FAISS,\
+        FastAPI,\
+        Docker,\
+        Streamlit,\
+        SQLite,\
+        LangSmith',
+      imageUrl:
+        'https://raw.githubusercontent.com/leo-cb/ask-my-github/main/docs/images/dashboard.png',
+      link: 'http://149.56.100.90:8505',
+    },
     {
       title: 'Heart Disease Prediction Website',
       description:
